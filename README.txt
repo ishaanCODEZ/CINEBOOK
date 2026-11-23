@@ -39,4 +39,5 @@ Coupons: `FIRST100` (₹100 off), `CINE10` (10%), `FAMILY20` (20% on ₹1,000+)
 
 Limitations
 Data is stored per browser; passwords use a simple hash; payment and refunds are simulated; the QR code is decorative.
+TROUBLESHOOTING: If the website does not open at localhost:8080, make sure the server is running and check that port 8080 is available.
 
