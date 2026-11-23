@@ -30,6 +30,8 @@ Demo Login and Coupons
 Coupons: `FIRST100` (₹100 off), `CINE10` (10%), `FAMILY20` (20% on ₹1,000+)
 
 ## QA Testing 
+- Tested basic navigation, movie search, seat selection and booking flow.
+
 ## Team
 | Member | Scrum Role | Responsibility |
 |---|---|---|
