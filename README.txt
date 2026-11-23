@@ -6,24 +6,24 @@ Live demo: https://ishaancodez.github.io/CINEBOOK/
 > Demo project: payments, theatres, showtimes and seat availability are sample data.
 
 Features
-- 55 movies, 8 theatres, search, filters, reviews and watchlist
-- Seat map with Premium, Executive and Classic tiers, max 8 seats, auto-pick best seats
-- 5-minute seat hold, coupons, simulated payment
-- Ticket with print, PNG download and calendar file
-- My bookings with cancellation, insights and CSV export
-- Support ticket board and CinéBot chatbot (basic or AI mode)
+- 55 movies, 8 theatres, search, filters, reviews and watchlist.
+- Seat map with Premium, Executive and Classic tiers, max 8 seats, auto-pick best seats.
+- 5-minute seat hold, coupons, simulated payment.
+- Ticket with print, PNG download and calendar file.
+- My bookings with cancellation, insights and CSV export.
+- Support ticket board and CinéBot chatbot (basic or AI mode).
 
 Tech Stack
 - Front end: HTML5, CSS3, vanilla JavaScript (single-page app, no framework)
-- Storage: browser localStorage
-- Posters: Wikipedia API
-- Optional server: Java 11+ (`ChatServer.java`) forwarding chat to the Claude API
-- Tools: Git, GitHub, GitHub Pages, Jira
+- Storage: browser localStorage.
+- Posters: Wikipedia API.
+- Optional server: Java 11+ (`ChatServer.java`) forwarding chat to the Claude API.
+- Tools: Git, GitHub, GitHub Pages, Jira.
 
 ## Run It
-- No install: double-click `index.html`
+- No install: double-click `index.html`.
 - AI chatbot (Windows): double-click `run-windows.bat` and paste your Anthropic API key. Opens at http://localhost:8080
-- Mac/Linux: `export ANTHROPIC_API_KEY=your_key` then `java ChatServer.java`
+- Mac/Linux: `export ANTHROPIC_API_KEY=your_key` then `java ChatServer.java`.
 
 Demo Login and Coupons
 `demo@cinebook.com` / `demo123`
