@@ -29,6 +29,7 @@ Demo Login and Coupons
 `demo@cinebook.com` / `demo123`
 Coupons: `FIRST100` (₹100 off), `CINE10` (10%), `FAMILY20` (20% on ₹1,000+)
 
+## QA Testing 
 ## Team
 | Member | Scrum Role | Responsibility |
 |---|---|---|
